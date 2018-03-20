@@ -1,6 +1,4 @@
-<?php
-require('header.php');
-?>
+
 
     <!DOCTYPE html>
     <html lang="fr">
@@ -14,14 +12,18 @@ require('header.php');
     </head>
 
     <body>
+        <header>
 
+        </header>
 
+        <main>
 
+        </main>
+
+        <footer>
+            
+        </footer>
     </body>
 
     </html>
 
-
-<?php
-require('footer.php');
-?>
