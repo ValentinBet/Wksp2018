@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/WorkShop_2018-SiteAgence.iml" filepath="$PROJECT_DIR$/.idea/WorkShop_2018-SiteAgence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/citta.iml" filepath="$PROJECT_DIR$/.idea/citta.iml" />
     </modules>
   </component>
 </project>

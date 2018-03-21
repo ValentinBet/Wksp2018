@@ -1,13 +1,15 @@
-body, html {
-    width: auto;
-    height: auto;
+li {
+    display: inline-block;
 }
 
-header {
+nav ul
+{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+}
+li img {
+    width: 25px;
 
 }
-
-footer {
-
-}
-
