@@ -5,6 +5,8 @@
  * Date: 21/03/2018
  * Time: 10:23
  */
+        require '../dbb/Database.php';
+         $db = new Database();
 
 ?>
 <!DOCTYPE html>

@@ -1,5 +1,6 @@
 <?php
 require_once 'header.php';
+
 ?>
     <main class="quiz">
 
@@ -74,6 +75,7 @@ require_once 'header.php';
 
 
 <?php
+
 $first = null;
 $second = null;
 $third = null;
