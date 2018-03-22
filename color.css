@@ -1,3 +1,26 @@
 body {
     background-color: #f4f4f4;
 }
+
+ul {
+    background-color: #9ab2a1;
+}
+
+li a {
+    color: #111;
+    border-color: #9ab2a1;
+}
+
+li a:hover {
+    background-color: #f4f4f4;
+    color: #111;
+    border-color: #111;
+}
+
+.active {
+    background-color: #698170;
+}
+
+footer {
+    background-color: #546758;
+}
