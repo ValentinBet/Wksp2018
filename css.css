@@ -1,0 +1,31 @@
+
+
+@font-face {
+    font-family: 'Lemon/Milk';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Lemon/Milk'), url('LemonMilk.woff') format('woff');
+}
+
+body {
+    margin:0;
+    padding:0;
+    text-align: center;
+
+    font-size: 14px;
+    line-height: 2em;
+}
+
+
+header {
+    width: 100%;
+    height: 20%;
+}
+
+h1 {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+}
+
+h2 {
+    font-family: "Lemon/Milk", sans-serif;
+}
