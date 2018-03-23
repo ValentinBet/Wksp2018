@@ -24,3 +24,15 @@ li a:hover {
 footer {
     background-color: #546758;
 }
+
+table {
+    border-color: #ddd;
+}
+
+.checked {
+    background-color: #546758;
+}
+
+label {
+    background-color: #AFCDB5;
+}
