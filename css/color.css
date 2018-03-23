@@ -31,6 +31,7 @@ table {
 
 .checked {
     background-color: #546758;
+    transition: 0.2s;
 }
 
 label {
