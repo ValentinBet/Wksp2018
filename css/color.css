@@ -30,10 +30,14 @@ table {
 }
 
 .checked {
-    background-color: #546758;
+    background-color: #82a58b;
     transition: 0.2s;
 }
 
 label {
     background-color: #AFCDB5;
+}
+
+input[type=submit] {
+    background-color: #536658;
 }

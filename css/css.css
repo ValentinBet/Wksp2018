@@ -89,8 +89,9 @@ label {
     cursor: pointer;
     margin-right: 5%;
     overflow: auto;
-    user-drag: none;
+    padding-top:1%;
     user-select: none;
+
 }
 
 section {
@@ -105,4 +106,10 @@ input[type=checkbox] {
     opacity: 0;
 }
 
+input[type=submit] {
+    border: none;
+
+    width: 15%;
+    height: 2.5em;
+}
 
